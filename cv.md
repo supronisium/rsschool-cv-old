@@ -3,7 +3,7 @@
 1. Email: supronisium@gmail.com, discord nickname: Anton (@supronisium)
 2. My goal is become a **developer**.
 3. My skills is: Web-design, CSS, HTML, SEO. 
-4. Code example is:
+4. My code example is:
 ```
 <p>Hello world!</p>
 ```
