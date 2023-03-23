@@ -9,4 +9,4 @@
 ```
 5. My last project is SEO optimization.
 6. I have a higher education in BSUIR.
-7. My english level is bettween A2 and B1 in 2023.git add
+7. My english level is bettween A1 and A2 in 2023.
