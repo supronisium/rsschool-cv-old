@@ -7,6 +7,6 @@
 ```
 <p>Hello world!</p>
 ```
-5. My last project is SEO optimization.
+5. My last project is in SEO.
 6. I have a higher education in BSUIR.
 7. My english level is bettween A1 and A2 in 2023.
